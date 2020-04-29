@@ -21,6 +21,7 @@ public class Mascota {
     }
 
     public int getNivelDeFelicidad() {
+        System.out.println("Mi nivel de felicidad es " + nivelDeFelicidad);
        return this.nivelDeFelicidad;
     }
 

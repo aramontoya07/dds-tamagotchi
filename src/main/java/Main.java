@@ -8,6 +8,7 @@ public class Main {
         mascota.jugar();
         mascota.jugar();
         mascota.jugar();
+        mascota.getNivelDeFelicidad();
         mascota.mostarEstado();
     }
 }
