@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02ab15de-3e8f-4dba-a4d3-1516f299fb4d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../state/target/" />
+    <ignored path="$PROJECT_DIR$/../2019-vi-no-group-06/target/" />
+    <ignored path="$PROJECT_DIR$/../maquinaDeCafe/target/" />
+    <ignored path="$PROJECT_DIR$/../command/target/" />
+    <ignored path="$PROJECT_DIR$/../singleton/target/" />
+    <ignored path="$PROJECT_DIR$/../strategy/target/" />
+    <ignored path="$PROJECT_DIR$/../strategy2/target/" />
+    <ignored path="$PROJECT_DIR$/../abstractFactory/target/" />
+    <ignored path="$PROJECT_DIR$/../builder/target/" />
+    <ignored path="$PROJECT_DIR$/../adapter/target/" />
+    <ignored path="$PROJECT_DIR$/../observer/target/" />
+    <ignored path="$PROJECT_DIR$/../sube/target/" />
+    <ignored path="$PROJECT_DIR$/../templateMethod/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Hambrienta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding>
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Contenta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#1028#1029#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Aburrida.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+              <folding>
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#834#835#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Mascota.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/EstadoMascota.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Helper</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../2019-vi-no-group-06" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../2019-vi-no-group-06/src/main/java/server/ControllerGuardarropas.java" />
+        <option value="$PROJECT_DIR$/../2019-vi-no-group-06/src/main/java/server/ControllerUsuario.java" />
+        <option value="$PROJECT_DIR$/../2019-vi-no-group-06/src/main/java/repositorios/RepositorioAtuendos.java" />
+        <option value="$PROJECT_DIR$/../2019-vi-no-group-06/src/main/java/server/Server.java" />
+        <option value="$PROJECT_DIR$/../2019-vi-no-group-06/src/main/java/db/EntityManagerHelper.java" />
+        <option value="$PROJECT_DIR$/../2019-vi-no-group-06/src/test/java/test/EmTest.java" />
+        <option value="$PROJECT_DIR$/../2019-vi-no-group-06/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/../2019-vi-no-group-06/src/main/java/repositorios/RepositorioAsistenciaEventos.java" />
+        <option value="$PROJECT_DIR$/../2019-vi-no-group-06/src/main/java/repositorios/RepositorioGuardarropa.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Mquina.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Ingrediente.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Azucar.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Edulcorante.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Especia.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Crema.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Vainilla.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Cacao.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/BotonIngrediente.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/XMLreader.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Boton.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Estado/CargaIncompletaException.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/BotonTamanioVaso.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/BotonBebida.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/BotonIngredienteSecundario.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Ingrediente.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/IngredientePrincipal.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Agua.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/NoHayIngredienteException.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Cafe.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Leche.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/TamanioVaso.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/test/java/DisepenserMockWCM.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/DispenserAutomatico.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Dispenser.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Syrup.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Estado/EstadoActual.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Bebidas/CaffeLate.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Bebidas/ExpressoMachiatto.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Bebidas/SyrupFlavoredLatte.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/test/java/WCMtest.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Bebidas/WhiteChocolateMocha.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Maquina.java" />
+        <option value="$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Bebida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EstadoMascota.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MalHumorada.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Aburrida.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Hambrienta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Contenta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mascota.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="maquinaDeCafe" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ejercicioTamagotchi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejercicioTamagotchi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ejercicioTamagotchi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejercicioTamagotchi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ejercicioTamagotchi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejercicioTamagotchi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ejercicioTamagotchi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejercicioTamagotchi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Ingredientes" />
+      <recent name="Estado" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="state" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ejercicioTamagotchi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QueMePongo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.EmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmTest.repoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QueMePongo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.EmTest" />
+      <option name="METHOD_NAME" value="repoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WCMtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maquinaDeCafe" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WCMtest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.WCMtest" />
+        <item itemvalue="JUnit.EmTest" />
+        <item itemvalue="JUnit.EmTest.repoTest" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02ab15de-3e8f-4dba-a4d3-1516f299fb4d" name="Default Changelist" comment="" />
+      <created>1575830281148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575830281148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="WCMtest - 2019.12.10 at 12h 07m 10s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WCMtest - 2019.12.10 at 12h 08m 09s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WCMtest - 2019.12.10 at 12h 16m 04s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WCMtest - 2019.12.10 at 12h 17m 45s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WCMtest - 2019.12.10 at 12h 18m 21s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WCMtest - 2019.12.10 at 12h 19m 23s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WCMtest - 2019.12.10 at 12h 19m 37s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WCMtest - 2019.12.10 at 12h 30m 31s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WCMtest - 2019.12.10 at 12h 32m 42s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WCMtest - 2020.04.29 at 14h 29m 18s.xml">
+      <configuration name="WCMtest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.23071104" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.18154311" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="simpleUML" order="5" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.41898528" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22749591" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.28477904" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.11270802" />
+      <window_info anchor="right" id="PlantUML" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.21558245" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.18154311" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="simpleUML" order="5" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.41898528" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26022914" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.28477904" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.11270802" />
+      <window_info anchor="right" id="PlantUML" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../2019-vi-no-group-06/src/main/java/eventos/AsistenciaEvento.java" />
+    <entry file="file://$PROJECT_DIR$/../2019-vi-no-group-06/src/main/java/server/ControllerEventos.java" />
+    <entry file="file://$PROJECT_DIR$/../command/src/main/java/Main.java" />
+    <entry file="file://$PROJECT_DIR$/../command/src/main/java/Invoker.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Especia.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/IngredienteSecundario.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Edulcorante.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Vainilla.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Cacao.java" />
+    <entry file="file://$PROJECT_DIR$/../singleton/src/main/java/Coche.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/NoHayIngredienteException.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Cafe.java" />
+    <entry file="file://$PROJECT_DIR$/../sube/src/main/java/TipoDeUso.java" />
+    <entry file="file://$PROJECT_DIR$/../templateMethod/src/main/java/Jugador.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Leche.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../2019-vi-no-group-06/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/test/java/DisepenserMockWCM.java" />
+    <entry file="file://$PROJECT_DIR$/../2019-vi-no-group-06/src/test/java/test/PrendaTest.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/DispenserAutomatico.java" />
+    <entry file="file://$PROJECT_DIR$/../2019-vi-no-group-06/src/test/java/test/SetUp.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Agua.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Syrup.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Dispenser.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Bebidas/ExpressoMachiatto.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Bebidas/CaffeLate.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Crema.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/BotonTamanioVaso.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/BotonIngredienteSecundario.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/test/java/WCMtest.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Bebidas/SyrupFlavoredLatte.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Boton.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Ingrediente.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/XMLreader.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/TamanioVaso.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/BotonBebida.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/IngredientePrincipal.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Bebida.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Bebidas/WhiteChocolateMocha.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Ingredientes/Azucar.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/MaquinaBotones/Maquina.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Estado/CargaIncompletaException.java" />
+    <entry file="file://$PROJECT_DIR$/../maquinaDeCafe/src/main/java/Estado/EstadoActual.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/EstadoMascota.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Hambrienta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding>
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Contenta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Aburrida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding>
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Mascota.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_181</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

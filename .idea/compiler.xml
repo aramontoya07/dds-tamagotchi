@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ejercicioTamagotchi" />
+        <module name="maquinaDeCafe" />
+        <module name="QueMePongo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="abstractFactory" target="1.5" />
+      <module name="adapter" target="1.5" />
+      <module name="builder" target="1.5" />
+      <module name="command" target="1.5" />
+      <module name="observer" target="8" />
+      <module name="singleton" target="1.5" />
+      <module name="state" target="1.5" />
+      <module name="strategy" target="1.5" />
+      <module name="strategy2" target="1.5" />
+      <module name="sube" target="1.5" />
+      <module name="templateMethod" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
